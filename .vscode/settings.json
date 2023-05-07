@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "C_Cpp.default.compilerPath": "c:\\Users\\umar_\\Downloads\\java-1.8.0-openjdk-1.8.0.372-1.b07.redhat.windows.x86_64.zip"
+}

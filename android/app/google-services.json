@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100364182201",
+    "project_id": "gloria-jeans-coffee-c4721",
+    "storage_bucket": "gloria-jeans-coffee-c4721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100364182201:android:19c061390b80aa2aa6f168",
+        "android_client_info": {
+          "package_name": "com.quickbolt.gloriajeanscoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100364182201-4pq57reculk4fvrluo4d46o9v52s5p08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2oPYDaLrxmkP74KwRHUTXbhYpQZMllJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100364182201-4pq57reculk4fvrluo4d46o9v52s5p08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
